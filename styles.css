@@ -1,16 +1,50 @@
 body {
   font-family: "Poppins", sans-serif;
-  font-weight: 100;
+  font-weight: 400;
   font-style: normal;
+  background: #222831;
 }
 
 h1 {
   font-family: "Creepster", system-ui;
   font-weight: 400;
   font-style: normal;
+  color: #f96d00;
+  font-size: 90px;
+  text-align: center;
+  margin: 40px 0px;
+}
+
+p {
+  font-size: 20px;
+}
+
+footer {
+  color: #f96d00;
+  font-size: 14px;
+  text-align: center;
+  margin-top: 50px;
 }
 
 .nav-bar-custom-color {
   background: #f96d00;
   color: #222831;
+}
+
+.text-box {
+  background-color: #f96d00;
+  color: #222831;
+  width: 60%;
+  display: block;
+  margin: 0 auto;
+  padding: 20px;
+  border-radius: 4px;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.title {
+  font-size: 25px;
+  font-weight: 500;
+  margin-bottom: 10px;
 }
