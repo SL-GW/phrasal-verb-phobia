@@ -9,3 +9,8 @@ h1 {
   font-weight: 400;
   font-style: normal;
 }
+
+.nav-bar-custom-color {
+  background: #f96d00;
+  color: #222831;
+}
