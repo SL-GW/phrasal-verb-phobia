@@ -20,13 +20,13 @@ p {
 }
 
 a {
-  color: #c51350;
+  color: #efd510;
 }
 
 a:hover {
   text-decoration-line: none;
   font-weight: 600;
-  color: #c51350;
+  color: #efd510;
 }
 
 footer {
@@ -57,4 +57,9 @@ footer {
   font-size: 25px;
   font-weight: 500;
   margin-bottom: 10px;
+}
+
+.tip-draw {
+  display: flex;
+  justify-content: space-between;
 }
