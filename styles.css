@@ -14,19 +14,38 @@ h1 {
   text-align: center;
   margin: 40px 0px;
 }
+h2 {
+  color: #f96d00;
+  font-size: 24px;
+
+  text-align: center;
+  margin: 30px 250px 50px 250px;
+}
 
 p {
   font-size: 20px;
+  padding: 10px 10px;
 }
 
-a {
-  color: #efd510;
+main a {
+  color: #222831;
+  font-weight: 500;
 }
 
-a:hover {
+main a:hover {
+  color: #222831;
+  font-weight: 600;
+  text-decoration-line: none;
+}
+
+footer a {
+  color: #f83e4b;
+}
+
+footer a:hover {
   text-decoration-line: none;
   font-weight: 600;
-  color: #efd510;
+  color: #f83e4b;
 }
 
 footer {
